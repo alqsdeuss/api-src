@@ -14,7 +14,7 @@ document.getElementById('generateButton').addEventListener('click', function() {
         const img = document.createElement('img');
         img.src = imageObjectURL;
         const imageContainer = document.getElementById('imageContainer');
-        imageContainer.innerHTML = ''; // Șterge imaginea anterioară
+        imageContainer.innerHTML = '';
         imageContainer.appendChild(img);
     })
     .catch(error => console.error('Error:', error));
