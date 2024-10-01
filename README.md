@@ -1,4 +1,4 @@
-# Welcome to apisrc
+# Welcome to apis
 
 This repository contains a collection of python scripts designed to enhance your discord bot development with easy-to-use functionalities, these scripts leverage popular libraries like flask and pil to provide features such as image generation and user data management, making your bot creation process smooth and straightforward
 
